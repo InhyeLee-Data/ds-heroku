@@ -13,7 +13,9 @@ var fs = require('fs');
 // Other Basic Dependencies
 const path = require("path");
 const cTable = require('console.table');
-const dotenv = require("dotenv").config({ path: __dirname + `/../.env` }); // dotenv
+const dotenv = require('dotenv');
+dotenv.config();
+// const dotenv = require("dotenv").config({ path: __dirname + `/../.env` }); // dotenv
 
 //******************** EXPRESS SERVER SETUP ********************//
 
