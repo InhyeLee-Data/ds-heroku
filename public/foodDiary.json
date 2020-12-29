@@ -1,0 +1,243 @@
+﻿[
+        {
+            "primaryKey": "0",
+            "date": "Nov 18 2020",
+            "Day of Week": "Wedenesday",
+            "lunch": "2 Cups of Coffee, Sriracha Shrimp Sandwich",
+            "dinner": "Bulgogi, Naeng-myeon",
+            "snack": "Tangerines",
+            "moodIndex": "3",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "So So"
+        },
+        {
+            "primaryKey": "1",
+            "date": "Nov 19 2020",
+            "Day of Week": "Thursday",
+            "breakfast": "Cashew Nuts, Coffee",
+            "dinner": "Naeng-myeon",
+            "snack": "Half a bread, Burdock Tea",
+            "moodIndex": "4",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "Mildy good"
+        },
+        {
+            "primaryKey": "2",
+            "date": "Nov 20 2020",
+            "Day of Week": "Friday",
+            "lunch": "Coffee",
+            "dinner": "Woo Yook Myeon (Beef noodle soup), Sugyo (Dumpling)",
+            "moodIndex": "3",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "A little down -> Getting Better"
+        },
+        {
+            "primaryKey": "3",
+            "date": "Nov 21 2020",
+            "Day of Week": "Saturday",
+            "breakfast": "Cheong Guk Jang (Fermented Soy Bean Soup), Coffee",
+            "lunch": "Bun with a hot dog, Iced Coffee",
+            "dinner": "Hoe (Raw fish - three or four different kinds), Gulbi (Corvina cooked after stored in barley)",
+            "snack": "Florentine Amande (Almond Cookie), Lemon Cookie",
+            "moodIndex": "2",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "Not productive at all. So, not Happy."
+        },
+        {
+            "primaryKey": "4",
+            "date": "Nov 22 2020",
+            "Day of Week": "Sunday",
+            "lunch": "Coffee, Bread",
+            "dinner": "DdeokBokki (Spicy Rice Cake), NalchiAlBob (Flying Fish Roe RiceBall)",
+            "moodIndex": "2",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "Not productive at all!. So, Not happy"
+        },
+        {
+            "primaryKey": "5",
+            "date": "Nov 23 2020",
+            "Day of Week": "Monday",
+            "breakfast": "Dan Dan Myeon, Coffee",
+            "lunch": "Iced Coffee",
+            "dinner": "Grilled Beef BBQ (sirloin steak, Chuck Flap Tail), Many little Banchans, Fried Rice",
+            "moodIndex": "4",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "Mildly Happy as I have moved to a good hotel!"
+        },
+        {
+            "primaryKey": "6",
+            "date": "Nov 24 2020",
+            "Day of Week": "Tuesday",
+            "breakfast": "Banana, Coffee",
+            "lunch": "GomTang, Radish Kimchi, Iced Coffee",
+            "snack": "Tangerines, Almonds, Banana, cashew nuts, Instant coffee",
+            "moodIndex": "5",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "Content, as I have attended a meeting for dad. And the hotel takes a good care of the basics for me. Feeling blessed."
+        },
+        {
+            "primaryKey": "7",
+            "date": "Nov 25 2020",
+            "Day of Week": "Wedenesday",
+            "breakfast": "Banana",
+            "lunch": "Sunggye-bibimbap, Kimchi, Japchae, Chi-namul, pickled radish, Coffee",
+            "dinner": "BLT Sandwich",
+            "snack": "Tangerines, Almonds,",
+            "moodIndex": "3",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "Not productive at all. Wasted time. "
+        },
+        {
+            "primaryKey": "8",
+            "date": "Nov 26",
+            "Day of Week": "Thursday",
+            "breakfast": "Coffee",
+            "lunch": "Naeng Myeon (Eulmildae), Pickled Radish",
+            "dinner": "Coffee",
+            "snack": "Squids, 2 Boiled Eggs",
+            "moodIndex": "4",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "Feeling good after seeing the doc"
+        },
+        {
+            "primaryKey": "9",
+            "date": "Nov 27 2020",
+            "Day of Week": "Friday",
+            "lunch": "Maze-Ramyeon",
+            "dinner": "Coffee",
+            "snack": "Milk Tea, Gummy jelly",
+            "moodIndex": "3",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "Okay"
+        },
+        {
+            "primaryKey": "10",
+            "date": "Nov 28 2020",
+            "Day of Week": "Saturday",
+            "breakfast": "Coffee",
+            "lunch": "Samgye-GukBap, Kimchi",
+            "snack": "Tangerines, ",
+            "moodIndex": "4",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "Slept well. Okay"
+        },
+        {
+            "primaryKey": "11",
+            "date": "Nov 29 2020",
+            "Day of Week": "Sunday",
+            "breakfast": "Coffee",
+            "lunch": "BindaeDduk, Hoe, Japchae, Wooguji haejangGuk",
+            "snack": "Coffee, Almonds, Madelaine, Yogurt Drink",
+            "moodIndex": "4",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "Okay"
+        },
+        {
+            "primaryKey": "12",
+            "date": "Nov 30 2020",
+            "Day of Week": "Monday",
+            "breakfast": "Coffee",
+            "lunch": "Coffee, SweetPotatoes Chip,  Quail Eggs",
+            "dinner": "Dumplings, Radish",
+            "snack": "Sweet Potatoes Chip",
+            "moodIndex": "4",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "Okay"
+        },
+        {
+            "primaryKey": "13",
+            "date": "Dec 1 2020",
+            "Day of Week": "Tuesday",
+            "breakfast": "Coffee",
+            "lunch": "Ddeok Mandoo Guk (Dumpling and Rice Cake soup), Marinated Sesame Leaf, Kimchi, Marinated chives",
+            "snack": "Coffee, Kiwi Banana, Sweet Potates Chip, Cucumber",
+            "moodIndex": "5",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "Rather Good"
+        },
+        {
+            "primaryKey": "14",
+            "date": "Dec 2 2020",
+            "Day of Week": "Wedenesday",
+            "lunch": "Coffee",
+            "dinner": "Son-Mandu (6 pieces, Meat and Veggie Dumpling)",
+            "moodIndex": "3",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "A bit slow but okay"
+        },
+        {
+            "primaryKey": "15",
+            "date": "Dec 3 2020",
+            "Day of Week": "Thursday",
+            "breakfast": "Coffee",
+            "lunch": "Two small Bread, Coffee",
+            "dinner": "DdeokGuk (Instant Rice Cake Soup with eggs)",
+            "snack": "Quail Eggs",
+            "moodIndex": "4",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "A bit hasty but Good"
+        },
+        {
+            "primaryKey": "16",
+            "date": "Dec 4 2020",
+            "Day of Week": "Friday",
+            "breakfast": "Coffee",
+            "lunch": "Soft beef (Boiled), Pancakes (Fish, beef lung), Gukshi (Noodle Soup), Marinated Sesame Leaf, Kimchi, Marinated onions",
+            "dinner": "Scorched Rice (Instant), Toasted Seaweed",
+            "snack": "Coffee, Tangerines",
+            "moodIndex": "5",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "Good"
+        },
+        {
+            "primaryKey": "17",
+            "date": "Dec 5 2020",
+            "Day of Week": "Saturday",
+            "lunch": "Coffee",
+            "dinner": "기억 안 남.. ",
+            "snack": "Cookies, Tangerines",
+            "moodIndex": "5",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "Good"
+        },
+        {
+            "primaryKey": "18",
+            "date": "Dec 6 2020",
+            "Day of Week": "Sunday",
+            "lunch": "Coffee",
+            "dinner": "Mandoo, SeafoodPancake",
+            "moodIndex": "4",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "Okay"
+        },
+        {
+            "primaryKey": "19",
+            "date": "Dec 7 2020",
+            "Day of Week": "Monday",
+            "lunch": "Coffee",
+            "dinner": "Mandoo, SeafoodPancake (Leftover)",
+            "snack": "Almonds",
+            "moodIndex": "4",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "Okay"
+        },
+        {
+            "primaryKey": "20",
+            "date": "Dec 8 2020",
+            "Day of Week": "Tuesday",
+            "breakfast": "Coffee, two small Scones",
+            "lunch": "Sunggye-bibimbap, Kimchi, Japchae, Chi-namul, pickled radish",
+            "dinner": "Coffee",
+            "snack": "Tangerines",
+            "moodIndex": "4",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "Okay"
+        },
+        {
+            "primaryKey": "21",
+            "date": "Dec 9 2020",
+            "Day of Week": "Wedenesday",
+            "lunch": "Coffee, Muffin, Scone, Flat Bread",
+            "dinner": "Coffee, Garlic Cream Cheese Bagel",
+            "snack": "Tangerines",
+            "moodIndex": "5",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "Good. Figured out most of major studios problem."
+        },
+        {
+            "primaryKey": "22",
+            "date": "Dec 10 2020",
+            "Day of Week": "Thursday",
+            "breakfast": "Almonds",
+            "lunch": "Achovy Soy Ramyeon with Pork and seaweed, Iced Coffee",
+            "moodIndex": "5",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "Good. Major Studio is over"
+        },
+        {
+            "primaryKey": "23",
+            "date": "Dec 11 2020",
+            "Day of Week": "Friday",
+            "lunch": "Coffee, Curry Bread, Sweet Potato Bread",
+            "dinner": "Coffee, Tangerines, Garlic Cream Cheese Bagel",
+            "moodIndex": "3",
+            "Major Feeling (Happiness Index) - Categorical (Points out of 5)": "Okay. But feel like I haven't done much work"
+        }
+    ]
